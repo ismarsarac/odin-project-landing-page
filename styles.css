@@ -1,0 +1,31 @@
+ul {
+    list-style-type: none;
+}
+
+.header {
+    background:#1f2937 ;
+    font-family: Roboto, sans-serif;
+}
+
+.top-bar ul {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+.top-bar {
+    display: flex;
+    text-align: center;
+    gap: 350px;
+}
+
+
+.hero h1 {
+    color: #f9faf8;
+    font-size: 48px;
+}
+
+.hero p {
+    color: #e5e7eb;
+    font-size: 18px;
+    
+}
