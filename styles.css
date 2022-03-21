@@ -7,11 +7,6 @@ ul {
     font-family: Roboto, sans-serif;
 }
 
-.top-bar ul {
-    display: flex;
-    flex-direction: row;
-    gap: 10px;
-}
 .top-bar {
     display: flex;
     text-align: center;
