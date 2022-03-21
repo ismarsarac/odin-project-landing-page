@@ -134,3 +134,46 @@ ul {
 }
 
 /* SIGN UP */
+.signup{
+    background-color: #3882f6;
+    margin: 50px 200px;
+    padding: 10px 80px;
+    display: flex;
+    align-items: center;
+    border-radius: 5px;
+    border-color: none;
+    flex: 1;
+}
+
+.signup-info{
+    text-align: left;
+}
+
+.signup-info p{
+    color: white;
+    opacity: 0.8;
+    margin: 5px 30px 30px 50px;
+}
+
+.signup-info h3{
+    color: white;
+    padding: 0;
+    margin: 30px 0px 0px 50px;
+}
+
+.signup-button button{
+    color: white;
+    border-color: white;
+    background-color: #3882f6;
+    border-radius: 6px;
+    padding: 5px 25px;
+    font-size: 15px;
+    font-weight: bolder;
+}
+
+/* FOOTER */
+.footer{
+    background-color: #1f2937;
+    color: white;
+}
+
